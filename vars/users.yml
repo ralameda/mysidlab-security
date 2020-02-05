@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
+  - name: ren1
     aws_groups: "sacramento, fresno, indio"
-  - name: user2
+  - name: ren2
     aws_groups: "losangeles, sanfrancisco, napa"
-  - name: user3
+  - name: ren3
     aws_groups: "palmsprings, indio, sandiego"
