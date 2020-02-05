@@ -1,8 +1,8 @@
 ---
 users:
-  - name: ren1
+  - name: snake
     aws_groups: "sacramento, fresno, indio"
-  - name: ren2
+  - name: meryl
     aws_groups: "losangeles, sanfrancisco, napa"
-  - name: ren3
+  - name: emmerich
     aws_groups: "palmsprings, indio, sandiego"
